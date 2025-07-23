@@ -18,6 +18,12 @@ This is a user-friendly image segmentation tool built with Python, leveraging th
 
 # Using
 
+## Download models
+
+From [here](https://docs.ultralytics.com/zh/models/sam-2/#how-to-use-sam-2-versatility-in-image-and-video-segmentation) to download sam models, default sam2.1_b.pt
+
+
+## Try it
 ![gui](./assets/gui.png)
 
 As shown in the figure, it is obvious for using.
